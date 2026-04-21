@@ -20,18 +20,18 @@ console.log(countdown);
 
 
 // 3 (do while loop to take user input until they type "stop")
-/*
- let teaCollection=[];
+/* 
+let teaCollection = [];
 let tea;
-do{
+do {
     tea = prompt(`type your favourite tea (type "stop" to finish)`);
-    if(tea!=="stop"){
+    if (tea !== "stop") {
         teaCollection.push(tea);
     }
 
 
 }
-while(tea!=="stop");
+while (tea !== "stop");
  */
 
 // 4 (1-3 sum using do while loop)

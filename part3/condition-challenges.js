@@ -30,7 +30,7 @@ let value = 10;
 // let value = []; // etar type hobe object
 
 if (typeof value === "number") {    // === is used for strict equality check, it checks both value and type
-    // console.log("value is a number");
+    console.log("value is a number");
 } else {
     console.log("value is not a number");
 }
